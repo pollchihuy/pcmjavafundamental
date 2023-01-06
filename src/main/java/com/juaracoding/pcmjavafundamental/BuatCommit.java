@@ -1,4 +1,4 @@
-package com.juaracoding.haha;
+package com.juaracoding.pcmjavafundamental;
 /*
 Created By IntelliJ IDEA 2022.2.3 (Community Edition)
 Build #IU-222.4345.14, built on October 5, 2022
